@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Open Source and my own Projects.
-- 🌱 I’m currently learning Full-Stack Development.
-- 👯 I’m looking to collaborate on new open-source projects.
+- 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about Open Source
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thedipankarroy/)
 
