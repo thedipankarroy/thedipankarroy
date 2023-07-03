@@ -5,6 +5,9 @@
 - 💬 Ask me about Open Source
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thedipankarroy/) • [Twitter](https://twitter.com/the_dipankarroy) • [Mastodon](https://hachyderm.io/@thedipankarroy)
 
+<br></br>
+![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=the_dipankarroy\&layout=compact)
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=the_dipankarroy\&layout=compact) | <img width="455px" src="https://github-readme-stats.vercel.app/api?username=thedipankarroy&count_private=true&show_icons=true&theme=light"/>|
-| ------------- | ------------- |
+<img src="https://github-readme-stats.vercel.app/api?username=thedipankarroy&count_private=true&show_icons=true&theme=light"/>
+
+![Dipankar's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=thedipankarroy&theme=light)
