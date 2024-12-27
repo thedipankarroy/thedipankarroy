@@ -3,7 +3,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/thedipankarroy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/the_dipankarroy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://github.com/thedipankarroy/ubercoders">
+    <img src="https://komarev.com/ghpvc/?username=thedipankarroy&style=for-the-badge">
+</a>
 </p>
+
+
 
 ### About Me 💫
 
@@ -33,3 +38,6 @@ I'm passionate about Open Source development and continuously expanding my progr
 ### Let's Connect! 🤝
 
 I'm always interested in connecting with fellow developers and discussing Open Source opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/thedipankarroy/) or [Twitter](https://twitter.com/the_dipankarroy)!
+
+
+
