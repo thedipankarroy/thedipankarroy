@@ -37,7 +37,5 @@ I'm passionate about Open Source development and continuously expanding my progr
 
 ### Let's Connect! 🤝
 
-I'm always interested in connecting with fellow developers and discussing Open Source opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/thedipankarroy/) or [Twitter](https://twitter.com/the_dipankarroy)!
-
-
-
+I’m always eager to connect with fellow developers and explore Open Source opportunities. Feel free to reach out to me on 
+[LinkedIn](https://www.linkedin.com/in/thedipankarroy/) or [Twitter](https://twitter.com/the_dipankarroy)!
